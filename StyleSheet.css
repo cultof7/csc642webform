@@ -1,0 +1,49 @@
+﻿body {
+    background-color: whitesmoke;
+}
+
+input[type=text] {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+#state {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+#edlevel {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+#income {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+input[type=tel] {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+input[type=email] {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+input[type=password] {
+    border: 2px solid grey;
+    border-radius: 16px;
+}
+
+hr { 
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    margin-left: inherit;
+    margin-right: inherit;
+    border-style: inset;
+    border-width: 1px;
+    border-color:aliceblue
+} 
